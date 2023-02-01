@@ -1,3 +1,16 @@
+#get_data {
+    margin: auto;
+    width: 200px;
+    height: 60px;
+    border: 2px solid red;
+    border-radius: 5%;
+    color: brown;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
 .main {
     display: flex;
     flex-direction: row;
